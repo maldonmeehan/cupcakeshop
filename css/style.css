@@ -1,0 +1,28 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+.important {
+  color: green;
+  font-weight: bold;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: gold;
+  font-weight: 400;
+  font-size: 30px;
+}
+
+p.important {
+  font-size: 24px;
+}
+
+img {
+  width: 50%;
+}
